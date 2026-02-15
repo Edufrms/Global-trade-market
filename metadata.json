@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Global Trade Intelligence Hub",
+  "description": "An advanced business intelligence platform to analyze country-level corporate structures, identify key players by sector and size, and gain strategic foreign trade insights using AI-powered search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
