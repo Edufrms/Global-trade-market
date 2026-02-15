@@ -1,7 +1,12 @@
 {
-  "name": "Copy of Global Trade Intelligence Hub",
-  "description": "An advanced business intelligence platform to analyze country-level corporate structures, identify key players by sector and size, and gain strategic foreign trade insights using AI-powered search grounding.",
+  "name": "Global Trade Intelligence Hub - Pro",
+  "description": "Enterprise-ready market analysis tool designed for deployment on custom domains via GitHub Pages.",
   "requestFramePermissions": [
     "geolocation"
-  ]
+  ],
+  "version": "1.0.0",
+  "deployment": {
+    "provider": "GitHub Pages",
+    "spa_support": true
+  }
 }
